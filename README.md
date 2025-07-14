@@ -12,7 +12,7 @@ Aspiring Backend Developer | BCA Student | Passionate about Python, AI & Creativ
 > A calming mental health and wellness landing page built entirely by me using HTML, CSS, and JavaScript — designed for simplicity and clarity.
 
 🛠️ **Tech:** HTML • CSS • JavaScript  
-🤝 Team of 2 (I handled the full frontend myself)
+🤝 Team of 2 
 
 ---
 
@@ -20,7 +20,7 @@ Aspiring Backend Developer | BCA Student | Passionate about Python, AI & Creativ
 > A women's safety web application designed to offer emergency features, location sharing, and support resources.
 
 🛠️ **Tech:** HTML • CSS • JavaScript • TypeScript  
-🤝 Collaborative project (Minimal personal contribution)  
+🤝 Collaborative project 
 🚧 *Currently in development*
 
 ---
